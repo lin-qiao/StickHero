@@ -1,2 +1,1 @@
-# hello-world
-Hello world new project template.
+# 一个基于cocos creator 的微信小游戏
