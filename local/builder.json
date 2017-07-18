@@ -1,0 +1,18 @@
+{
+  "platform": "web-mobile",
+  "template": "default",
+  "buildPath": "./build",
+  "debug": false,
+  "sourceMaps": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "keystorePath": "",
+  "keystorePassword": "",
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto"
+}
